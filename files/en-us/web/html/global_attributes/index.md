@@ -118,7 +118,7 @@ In addition to the basic HTML global attributes, the following global attributes
     - `0` means that the element should be focusable and reachable via sequential keyboard navigation, but its relative order is defined by the platform convention;
     - a _positive value_ means that the element should be focusable and reachable via sequential keyboard navigation; the order in which the elements are focused is the increasing value of the [**tabindex**](#tabindex). If several elements share the same tabindex, their relative order follows their relative positions in the document.
 
-- [`title`](/en-US/docs/Web/HTML/Global_attributes/title)
+- [`title`](/en-US/docs/Web/HTML/Global_attributes/t
   - : Contains a text representing advisory information related to the element it belongs to. Such information can typically, but not necessarily, be presented to the user as a tooltip.
 - [`translate`](/en-US/docs/Web/HTML/Global_attributes/translate)
 
